@@ -1,0 +1,15 @@
+
+
+path:
+train: /Users/dsw/Library/Mobile Documents/com~apple~CloudDocs/workspace/now/Drone_monitoring/train/mydata/images/train
+val: /Users/dsw/Library/Mobile Documents/com~apple~CloudDocs/workspace/now/Drone_monitoring/train/mydata/images/val
+test:
+
+## number of classes
+#nc: 3
+
+# class names
+names:
+  0: person
+  1: drowning
+
